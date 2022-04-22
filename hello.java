@@ -16,5 +16,4 @@ souT(456);
 sout(alipay);
 hqhqhqhqhq;
 haoqiang;
-HAOHAOHAOHAOHAOHAO;
 }
